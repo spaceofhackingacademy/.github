@@ -28,19 +28,19 @@ Hey! I'm darkcode357, a developer crazy about offensive security. For over 5 yea
 
 - 🌱 I’m currently learning **Powershell,Django,C,Rust,ASM**
 
-- 🤝 I’m looking for help with [Thg-framework](https://github.com/darkcode357/thg-framework)
-- 🤝 I’m looking for help with [Thg-cmd](https://github.com/darkcode357/thg-cmd)
-- 🤝 I’m looking for help with [Blackdog](https://github.com/darkcode357/Blackdog)
-- 🤝 I’m looking for help with [PackMyForAll](https://github.com/darkcode357/PackMyForAll)
-- 🤝 I’m looking for help with [PackMyScripts](https://github.com/darkcode357/PackMyScripts)
-- 🤝 I’m looking for help with [PackMyExploits](https://github.com/darkcode357/PackMyExploits)
-- 🤝 I’m looking for help with [PackMyAuxiliary](https://github.com/darkcode357/PackMyAuxiliary)
-- 🤝 I’m looking for help with [PackMyPost](https://github.com/darkcode357/PackMyPost)
-- 🤝 I’m looking for help with [PackMyPayloads](https://github.com/darkcode357/PackMyPayloads)
-- 🤝 I’m looking for help with [PackMyEncoders](https://github.com/darkcode357/PackMyEncoders)
-- 🤝 I’m looking for help with [PackMyNops](https://github.com/darkcode357/PackMyNops)
-- 🤝 I’m looking for help with [PackMyEvasion](https://github.com/darkcode357/PackMyEvasion)
-- 🤝 I’m looking for help with [PackMyHooks](https://github.com/darkcode357/PackMyHooks)
+- 🤝 I’m looking for help with [Thg-framework](https://github.com/spaceofhackingacademy/thg-framework)
+- 🤝 I’m looking for help with [Thg-cmd](https://github.com/spaceofhackingacademy/thg-cmd)
+- 🤝 I’m looking for help with [Blackdog](https://github.com/spaceofhackingacademy/Blackdog)
+- 🤝 I’m looking for help with [PackMyForAll](https://github.com/spaceofhackingacademy/PackMyForAll)
+- 🤝 I’m looking for help with [PackMyScripts](https://github.com/spaceofhackingacademy/PackMyScripts)
+- 🤝 I’m looking for help with [PackMyExploits](https://github.com/spaceofhackingacademy/PackMyExploits)
+- 🤝 I’m looking for help with [PackMyAuxiliary](https://github.com/spaceofhackingacademy/PackMyAuxiliary)
+- 🤝 I’m looking for help with [PackMyPost](https://github.com/spaceofhackingacademy/PackMyPost)
+- 🤝 I’m looking for help with [PackMyPayloads](https://github.com/spaceofhackingacademy/PackMyPayloads)
+- 🤝 I’m looking for help with [PackMyEncoders](https://github.com/spaceofhackingacademy/PackMyEncoders)
+- 🤝 I’m looking for help with [PackMyNops](https://github.com/spaceofhackingacademy/PackMyNops)
+- 🤝 I’m looking for help with [PackMyEvasion](https://github.com/spaceofhackingacademy/PackMyEvasion)
+- 🤝 I’m looking for help with [PackMyHooks](https://github.com/spaceofhackingacademy/PackMyHooks)
 
 
 
